@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+    height: 100vh;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.numeros{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
